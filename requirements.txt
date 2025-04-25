@@ -1,7 +1,7 @@
 pip==25.0.1
 torch==2.7.0
 torchvision==0.22.0
-streamlit==1.21.0
+streamlit==1.44.1
 
 
 timm==0.6.11
